@@ -1,0 +1,14 @@
+Validation completed 2026-10-02
+
+18 Python numerical, input-validation and API tests passed.
+JavaScript smoke checks passed: automatic demo, tabs, histogram generation,
+report/CSV downloads, search, changed settings, uploaded CSV and invalid CSV flow.
+CLI analysis of the 400-borrower synthetic portfolio passed.
+Python and JavaScript source syntax checks passed.
+
+The JS smoke checks use a DOM stub; a real browser layout review was not
+available in the build environment. Windows launcher commands were reviewed
+but were not executed on Windows.
+
+This validates numerical/software behavior, not prediction accuracy.
+No dealership data was used to calibrate or backtest these model inputs.

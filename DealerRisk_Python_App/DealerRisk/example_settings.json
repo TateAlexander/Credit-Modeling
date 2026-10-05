@@ -1,0 +1,13 @@
+{
+  "trials": 10000,
+  "confidence": 0.99,
+  "rho": 0.15,
+  "factor_cv": 0.75,
+  "systematic_weight": 0.75,
+  "macro_share": 0.5,
+  "pd_multiplier": 1.5,
+  "lgd_add": 0.1,
+  "loss_budget_pct": 0.2,
+  "seed": 42,
+  "as_of": "2026-10-02"
+}
